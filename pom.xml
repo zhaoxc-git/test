@@ -9,7 +9,6 @@
 	<url>http://maven.apache.org</url>
 	<dependencies>
 		<!-- servlet/jsp api -->
-
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>servlet-api</artifactId>
